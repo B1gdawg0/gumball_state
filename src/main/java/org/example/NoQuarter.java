@@ -1,4 +1,8 @@
 package org.example;
+/**
+ * Lerdphipat Kanjanarungroj
+ * 6510450917
+ */
 
 public class NoQuarter implements State {
     GumballMachine gumballMachine;

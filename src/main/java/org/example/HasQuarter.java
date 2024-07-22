@@ -2,6 +2,12 @@ package org.example;
 
 import java.util.Random;
 
+/**
+ * Lerdphipat Kanjanarungroj
+ * 6510450917
+ */
+
+
 public class HasQuarter implements State {
     Random random = new Random();
     GumballMachine gumballMachine;

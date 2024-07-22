@@ -1,4 +1,8 @@
 package org.example;
+/**
+ * Lerdphipat Kanjanarungroj
+ * 6510450917
+ */
 
 public class Winner implements State {
     GumballMachine gumballMachine;

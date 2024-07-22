@@ -1,4 +1,8 @@
 package org.example;
+/**
+ * Lerdphipat Kanjanarungroj
+ * 6510450917
+ */
 
 public interface State {
     public void insertQuarter();
